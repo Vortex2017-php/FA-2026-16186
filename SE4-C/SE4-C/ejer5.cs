@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SE4
+namespace SE4_C
 {
-    internal class Program
+    internal class ejer5
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
